@@ -12,3 +12,5 @@ the tidy data principles (course lectures/Wickham paper).
 
 In order to run the script the data folder has to be set up as explained in the 
 script.
+
+Also see CodeBook.md (or the HTML rendering CodeBook.html).
